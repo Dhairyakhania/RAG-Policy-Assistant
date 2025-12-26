@@ -1,0 +1,180 @@
+1. Why am I unable to place orders?
+    This could be due to the following issues:
+    There is a Payment decline. Please select here to know more about Payment issues.
+    The item you have selected is out of stock.
+    There is some technical or internet connectivity issue.
+    Undeliverable to selected location/pincode.
+    There is a quantity limit.
+    Sometimes when Fulfiiled by Amazon and seller fulfilled items are clubbed together, the order processing takes time.
+    Can I change or modify orders that are already placed?
+    You would not be able to change or modify the number of items once you have already placed an order. You can place another fresh order with the desired modifications. However, you can change your shipping preferences in Your Account at any time after placing your order as long as the order hasn't entered the shipping process yet.
+
+2. How can I Cancel my order
+    To cancel orders before they are shipped	
+    Go to 'Your Orders'
+    Select the item you want to cancel and click 'Cancel items'.
+    Provide reasons for cancellation (optional) and proceed.
+
+    To cancel orders that are already shipped	
+    Go to 'Your Orders'
+    Select the 'Request Cancellation' option and proceed
+    The items will be returned to Amazon for a refund (if the payment is already made)
+    Want to cancel an item or order? Visit
+    Your Orders
+
+3.How do I track my package?
+    To track your package:
+    Go to Your Orders
+    Go to the order you want to track
+    Select Track Package next to the selected order
+    Select See all Updates to view delivery updates. The status of the order will have the details of the courier partner.
+    Why my shipment is late?
+    Here are some of the possible reasons for late delivery:
+
+    Incorrect address
+    Missing apartment, building, floor, or house number
+    Severe weather conditions
+    Product out of stock
+    Product damaged during transit
+    Local or regional contingencies
+    Some of the actions you can take are:
+
+    Track your package and confirm the estimated delivery date in Your Orders. We update the information if there is a change in the estimated delivery date.
+    Confirm your shipping address in Your Orders. To avoid delivery problems, keep your address information up-to-date and add delivery instructions to Your Addresses.
+    Check payment processing in Your Orders.
+    Wait for 48 hours to allow for any unexpected delays. We typically notify customers if any delays in delivery occurs.
+    If you haven't received your order but tracking shows as delivered, go to Find a Missing Package That Shows As Delivered. Occasionally, packages are returned to us as undeliverable. Visit Undeliverable Packages for more information.
+
+    The A-to-Z Guarantee protects you when you buy items sold and fulfilled by a third-party seller. It covers both the timely delivery and condition of your items. To know more about A-to-Z Guarantee, click here.
+
+4. My tracking shows as delivered but I haven't get got the product?
+    1. Verify the shipping address-
+
+    Select the relevant order in Your Orders to check the address. For more information on how to manage a wrong shipping address, go to Add and Manage Addresses.
+    2. Look for updates-
+
+    Select Track Package and check updates for delivery confirmation.
+    Select the Message Center to see if the package was accepted by someone else.
+    Look around the delivery location
+    Ask your household and neighbors
+    3. Wait up to 24 hours-
+
+    Sometimes, the delivery agents accidentally scan the package as 'delivered', while it's still in transit.
+    What to do next?
+
+    If your order was sold and shipped by a third-party seller , you may contact the Courier Partner to talk to the delivery agent or for more information about the location of your package.
+    Go to Your Orders and select on the relevant order and click Track package to find out details of your courier partner.
+    Keep your tracking number or delivery confirmation number ready. To find the tracking ID, select on the relevant order in Your Orders and scroll down to locate the Tracking ID
+
+5. My order is marked undelivered why?
+
+    An order may be undeliverable due to any of the following reasons:
+
+    No recipient was available to accept the delivery, even after multiple attempts.
+    The address was incorrect or the pincode and area mentioned in the address do not match or driver safety concerns due to presence of a dog Visit Your Addresses to update your shipping addresses and delivery preferences. Customize instructions to include presence of dog.
+    Recipient refused delivery.
+    In rare cases, the address label became unreadable during shipping.
+    The package was damaged in transit.
+    Local and regional contingencies prevented the delivery of the item.
+    Severe weather conditions affected the delivery.
+    Customer could not be contacted over call and:
+    There was no safe location to deliver the package.
+    The security or mailroom personnel didn’t accept the package
+    Access codes was needed to enter automated doors
+
+6. What qualifies as damaged or defective products?
+    Product is not in working condition or has visible cuts, crush, tear, broken parts, dents or scratches.
+    Product seal is broken and/or there is a leakage.
+    Product arrived with parts or accessories missing.
+    Product arrived in a different size or color than what was ordered.
+    Item does not match product description.
+    Entire product is missing, but the box is not tampered.
+    Products is expired.
+    Dead on Arrival / Screen Damaged.
+    Product doesn't meet expectations.
+    Product box damaged - packaging issue, Transportation issue.
+    The correct box contained incorrect item.
+    Item missing-box tampered.
+    Product is fake / counterfeit.
+    Product has a different seal.
+
+7. How do I check if I am eligible for EMI?
+    EMIs are available as a payment option for all credit card holders. For other payment methods, please check your eligibility below:
+    Debit EMI
+    Amazon Pay Later
+
+8. How do I make a purchase using EMI?
+    You can purchase products on Amazon using easy monthly installments (EMIs), preventing the need to pay the entire amount up-front at the time of purchase. Instead, you have the option to pay smaller amounts every month in equated installments.
+
+    You can purchase products on EMI through different payment methods such as:
+
+    Credit cards
+    Debit cards
+    Amazon Pay Later
+    Bajaj Finserv cards
+    You can also purchase selected products without paying any interest fees for the installment plan you select. For EMI purchases made using credit & debit card, your bank will charge you an interest. However, under a No Cost EMI offer, the total interest payable is already adjusted in the price of the order. The total payable amount (including interest) will be equal to the product price. To know more about No Cost EMI, click here.
+
+    To make a purchase on EMI, follow the below steps:
+
+    Select the product you wish to purchase and select the option to view all EMI Plans.
+    View the EMI options under your preferred payment method (Debit Card, Credit Card and Amazon Pay Later).
+    Select the ‘No Cost EMI options’ option to view the payment methods and banks providing you with this benefit.
+    Once you view the plans, you can add the same and proceed towards checkout.
+    Select whether you would like to purchase by paying in full or if you would like to purchase in installments by clicking on the highlighted text.
+    Select amount payable for each installment along with tenure. Please note that you may also be eligible for certain bank discounts.
+    Once you have selected your plan, you will be able to view the order summary, including applicable discounts and the selected installment plan. Upon placing the order, the entire amount may temporarily be deducted initially by the bank but this will be converted into installments within 2-4 days and the entire amount minus the first installment will be refunded to your payment instrument.
+
+Do you have any questions about payment issues on Amazon Pay? Find the answers below:
+
+9. Why did the payment fail?
+    Payments made on Amazon.in can sometimes fail or remain in a pending stage. If you are facing this issue, you have the option to revise your payment. Here are some probable reasons:
+    You may have entered incorrect credit or debit card details (e.g., name on the card, card number, CVV, 3D-secure PIN, and expiry date).
+    In case of an American Express card, your payment may fail if your billing address or PIN code is incorrect.
+    You may have closed or refreshed the page or went back to the previous page, while your payment was still being processed.
+    In some cases, your payment could fail if connection with your bank was not possible due to technical issues or your bank may be going through an outage.
+    Your card may be blocked for online transactions.
+    To revise your failed payment for an order, go to Your Orders and follow the on-screen instructions.
+
+10. I got a notification stating my payment got declined
+    As mentioned earlier, your bank cannot provide Amazon with information about why your payment was declined. However, to determine why your payment was declined, consider the following:
+    You may have accidentally closed the app or tapped on your device navigation to go back while your payment was still being processed by your bank.
+    You may have entered an incorrect credit/ debit card number, expiration date, CVV, billing address, and phone number during the checkout process
+    Your UPI payment may have timed out.
+    Your purchase may be outside of your normal spending pattern. Some banks will block payments due to security concerns pertaining to spending range, time of the transaction.
+    Your card may be blocked for online transactions.
+    Your issuing bank may have special policies regarding electronic or internet purchases
+    Your bank may be going through an outage.
+    You may be using a card that is not currently accepted on Amazon.in. For more information, see Accepted Payment Methods.
+    If necessary, please contact your bank for further information. For more information on the reasons of payment failure, check here on Payment Issues.
+
+
+11. Why has my UPI transaction failed?
+
+    Unified Payment Interface (UPI) transactions are usually completed instantly. However, your UPI transaction may fail due to any or all of the following reasons:
+
+    Incorrect UPI ID:Check if the UPI ID entered by you in correct. You can check the UPI ID from the app on which you have registered for UPI and try again. Your UPI ID will be of the format xyz@abc.
+    Technical failures: Sometimes UPI transactions fail due to timeouts or server issues, you'll be redirected to the Retry Payments page. You can immediately complete your order using a different payment method or try Amazon Pay UPI again. If instant retry isn't working, please wait 20 minutes and then complete your payment either through your Orders page or via the link in your email.
+    Note: UPI is currently available only on Amazon.in app and other third-party apps/websites that support UPI. You cannot pay with it on Amazon mobile browser and Amazon desktop browser.
+    In addition to the reasons listed above, sometimes, your bank may decline your UPI transaction for any or all of the following reasons:
+
+    If you have entered incorrect receiver / beneficiary details / UPI ID.
+    If you do not have sufficient balance in your bank account to cover the transaction amount.
+    If you attempt to send more than Rs.1,00,000 worth of transactions within 24 hours.
+    If you attempt to do more than 10 Scan + Send money transactions within 24 hours.
+    If you attempt to send more than Rs. 5,000 within 24 hours of registration.
+    If you attempt to do more than 20 Scan + Send money transactions of Rs.10 or less within 30 days.
+    If you attempt to do more than 100 Scan + Send money transactions within a month.
+    Due to technical issues / glitches with the UPI platform or your bank's servers.
+    Note: Different banks have different transaction limits. For more details about your applicable limits, please reach out to your respective bank.
+
+12. Why do I see an unknown charge on my Amazon account?
+    There are several reasons why you might not recognize a charge. Before reporting an unauthorized transaction, please check if:
+    An order is placed by another person (for example, a child, spouse, friend, relative) who has access to your card number.
+    A purchase is made by a person using another card linked to your Credit or Debit card account.
+    You have previously placed orders for any pre-order items.
+    You have recently cancelled or changed orders. Some banks show authorizations as charges or pending charges.
+    You have placed any order outside of Amazon.in using Amazon Pay. For further assistance with any Amazon Pay transactions, check the Amazon Pay Help pages.
+    Your Prime subscription was renewed. Check if you have auto-pay enabled for your Prime subscription. Visit Manage Your Prime Membership for more details.
+    Your complete order history is available in Your Account section on your Amazon app or homepage. To report any unauthorized transaction, please call us on 180012001637.
+    If the issue is a failed/pending transaction, please check the Payment Issues page or try revising your payment.
+    If the issue is with a UPI transaction, please check this help page.

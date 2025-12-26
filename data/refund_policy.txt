@@ -1,0 +1,30 @@
+Refund for Pay on Delivery Orders:
+For Pay on Delivery orders, refunds will be processed either to your bank account (via National Electronic Funds Transfer (NEFT)) or Amazon account (as Amazon Pay balance).
+
+ If you wish to receive the Pay on Delivery order's refund to your bank account, you can update the details of the bank account from the Returns Centre when you are returning an item.
+
+To add your bank account through mobile app, go to Orders > Click on the order you want to return > Select Return or Replace items option > Select ‘Refund to your bank account’ > Select ‘Choose a bank account’ > Select ‘Add a new bank account’, and enter your bank account details.
+To add your bank account through website, to Orders > Click on the order you want to return > Select go to Return or Replacement items option > Select ‘Refund to your bank account’ > Select ‘Choose a bank account’ > Select ‘Add a new bank account’, and enter your bank account details.
+Note: Refunds cannot be processed to third-party accounts. The name on your Amazon account should match with the name of the bank account holder.
+
+Paper cheque clearing
+All cheque refunds will be in form of "at par" Deutsche Bank cheques. All Deutsche Bank cheques are cleared locally in the following cities:
+Ahmedabad, Delhi, Ludhiana, Pune ,Aurangabad ,Gurgaon ,Moradabad ,Salem ,Bangalore ,Kolhapur ,Mumbai ,Surat ,Chennai ,Kolkata ,Noida ,Vellore
+
+If you plan to present the cheque in person in any other city, ensure that your beneficiary bank sends the cheque for outstation clearing.      
+
+In case you plan to drop your cheque in a clearance box, please note the following:
+
+If you are dropping the cheque in a clearance box in any of the above cities, use the box marked Local Cheques.
+If you are dropping the cheque in a clearance box in any other city, use the box marked Outstation Cheques.
+Failing to follow the above instructions might result in the cheque not being processed and a penalty being levied by the bank.
+
+Note: Once a cheque is issued, Amazon will send you an e-mail with the tracking details of the refund cheque within 4 business days from the date of refund.
+
+Shipping Cost Refunds
+
+ For Fulfilled by Amazon and Prime Eligible items, return shipping costs of upto Rs.100 will be refunded. The cost of gift-wrapping will also be refunded, if any. All such refunds will be issued to your Amazon Pay Balance.              
+Note: If you incur return shipping charges over Rs.100 for returning large and heavy items, you can contact us for an additional refund. For refund of such additional charges, proof of payment, like a courier receipt needs to be submitted.
+
+If you're returning a Seller-Fulfilled item, you can request the seller to reimburse the return shipping charges you incurred. In such cases, a seller might ask you to provide the courier receipt.    
+Note: The seller will not refund the shipping cost incurred in case of remorse returns.
