@@ -219,6 +219,17 @@ ollama pull mistral
 python main.py
 ```
 
+## Optional Streamlit UI
+
+A minimal Streamlit interface is included for interactive exploration.
+The UI is intentionally lightweight and sits on top of the same RAG pipeline
+used by the CLI.
+
+To run:
+```bash
+streamlit run streamlit_app.py
+```
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
